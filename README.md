@@ -1,2 +1,14 @@
-# AI-Financial-Assistant
-RAG-based AI chatbot for banking and financial information using LangChain, Groq and ChromaDB.
+## Features
+
+- AI-powered financial assistant
+- Built using LangChain and Groq
+- Streamlit interface
+- Banking and finance question answering
+- Future RAG support with RBI documents
+
+## Tech Stack
+
+Python
+Streamlit
+LangChain
+Groq
